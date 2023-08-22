@@ -124,6 +124,7 @@
     <li>OpenVidu 2.28.0</li> 
     <li>AWS S3</li>
     <li>AWS SES</li>
+    <li>Firebase</li>
   </ul>
   </div>
 </details>
@@ -137,7 +138,8 @@
     <li>Redux Toolkit 1.9.5</li> 
     <li>OpenVidu 2.28.0/li> 
     <li>stompjs 2.3.3</li> 
-    <li>tailwind CSS</li> 
+    <li>tailwind CSS</li>
+    <li>Firebase</li>
   </ul>
   </div>
 </details>
